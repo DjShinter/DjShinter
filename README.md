@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/WiPlCeG.gif" width="250" alt="Valora (Shin) Popping"/>
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm **Shin**, a passionate game modder and developer specializing in **Unity game modding** and **Unity reverse engineering**. I love diving deep into game engines, understanding their inner workings, and creating modifications that push the boundaries of what's possible.
 
@@ -31,18 +31,6 @@ I own multiple VR headsets for development, testing, and experiencing VR across 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DjShinter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&card_width=400" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DjShinter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DjShinter&theme=dracula&hide_border=false" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -65,7 +53,7 @@ I own multiple VR headsets for development, testing, and experiencing VR across 
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.twitch.tv/shinter" target="_blank">
@@ -81,28 +69,12 @@ I own multiple VR headsets for development, testing, and experiencing VR across 
 
 ---
 
-## 🎵 Currently Listening To
+## Currently Listening To
 
 <div align="center">
   <a href="https://open.spotify.com/user/j2txjqe2kbfukh6m3k8n1b8kk">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=j2txjqe2kbfukh6m3k8n1b8kk&count=5&unique=true&width=400" alt="Spotify recently played"  />
   </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DjShinter&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DjShinter&theme=dracula&bg_color=282a36&hide_border=false" alt="Activity Graph" />
 </div>
 
 ---
